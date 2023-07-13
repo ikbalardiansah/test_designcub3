@@ -6,4 +6,4 @@ How to run the project :
 
 Note :
 Tugas 1 Route : localhost:8000/lokasi
-Tugas 1 Route : localhost:8000/subscribe
+Tugas 2 Route : localhost:8000/subscribe
