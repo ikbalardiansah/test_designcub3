@@ -5,5 +5,5 @@ How to run the project :
 4. composer install
 
 Note :
-Tugas 1 Route : localhost:8000/lokasi
+Tugas 1 Route : localhost:8000/lokasi,
 Tugas 2 Route : localhost:8000/subscribe
